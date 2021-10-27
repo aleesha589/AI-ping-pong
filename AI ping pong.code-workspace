@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\AI-Mario-Game-Student"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AI-PING-PONG"
+	}
+}

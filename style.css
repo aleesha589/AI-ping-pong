@@ -1,0 +1,14 @@
+body
+{
+text-align: center;
+}
+.heading {
+    width: 100%;
+    text-align: left;
+}
+.heading button{
+    float: right;
+
+}
+.heading h3{
+    display: inline;}
